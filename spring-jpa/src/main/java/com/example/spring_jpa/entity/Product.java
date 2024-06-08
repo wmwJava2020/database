@@ -1,5 +1,5 @@
 /**
- * @author Admin01
+ * @author Wondafrash
  * @Date 6/3/2024
  */
 package com.example.spring_jpa.entity;
